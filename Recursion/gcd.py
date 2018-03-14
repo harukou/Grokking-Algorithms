@@ -1,3 +1,4 @@
+#baidu baike
 def gcd_recursion(x,y):
 	return x if y == 0 else gcd_recursion(y,x%y)
 
